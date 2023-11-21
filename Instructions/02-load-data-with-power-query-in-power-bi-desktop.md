@@ -273,7 +273,7 @@ In dieser Aufgabe konfigurieren Sie die Abfrage **Sales**.
 1. Ersetzen Sie im Fenster **Benutzerdefinierte Spalte** im Feld **Neuer Spaltenname** den Text durch **Cost**.
 
 1. Geben Sie im Feld **Benutzerdefinierte Spaltenformel** den folgenden Ausdruck ein (nach dem Gleichheitszeichen):
-    - *Sie können den Ausdruck aus der Datei **D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** kopieren.*
+    - *Sie können den Ausdruck aus der Datei **C:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** kopieren.*
     - *Mit diesem Ausdruck wird getestet, ob der Wert für **TotalProductCost** fehlt. Wenn er fehlt, wird durch Multiplizieren der Werte für **OrderQuantity** und **StandardCost** ein Wert erzeugt. Andernfalls wird der vorhandene Wert für **TotalProductCost** verwendet.*
 
 
