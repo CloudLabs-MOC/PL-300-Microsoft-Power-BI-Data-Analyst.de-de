@@ -46,7 +46,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein, indem Sie ein Datas
 
 1. Wählen Sie **Hochladen > Durchsuchen** aus.
 
-1. Navigieren Sie zum Ordner **D:\PL300\Labs\08-perform-data-analysis-in-power-bi-desktop\Starter**.
+1. Navigieren Sie zum Ordner **C:\PL300\Labs\08-perform-data-analysis-in-power-bi-desktop\Starter**.
 
 1. Wählen Sie die Datei **SalesAnalysis.pbix** und dann **Öffnen** aus.
 
@@ -70,7 +70,7 @@ In dieser Aufgabe erstellen Sie eine Liveverbindung mit dem Power BI-Dataset, da
 
 1. Wählen Sie im Fenster **Datenhub** das Dataset **Verkaufsanalyse** in **Mein Arbeitsbereich** aus, und klicken Sie dann auf **Verbinden**, oder doppelklicken Sie darauf, um das Dataset zu laden.
 
-1. Navigieren Sie zu **Datei > Speichern** und speichern Sie den Dateinamen als **Umsatzuntersuchung** im Ordner **D:\PL300\MySolution**.
+1. Navigieren Sie zu **Datei > Speichern** und speichern Sie den Dateinamen als **Umsatzuntersuchung** im Ordner **C:\PL300\MySolution**.
 
 *Sie erstellen nun zwei Berichtsseiten, und auf jeder Seite arbeiten Sie mit einem anderen Visual, um Daten zu analysieren und zu erkunden.*
 
