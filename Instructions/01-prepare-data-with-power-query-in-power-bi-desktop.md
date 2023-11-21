@@ -38,7 +38,7 @@ In dieser Aufgabe öffnen Sie zunächst eine Power BI-Starterdatei (PBIX). Die S
 
 1. Wählen Sie die Datei **Sales Analysis** aus.
 
-1. Speichern Sie eine Kopie der Datei mit **Speichern unter** im Ordner **D:\PL300\MySolution**.
+1. Speichern Sie eine Kopie der Datei mit **Speichern unter** im Ordner **C:\PL300\MySolution**.
 
 ## **Abrufen von Daten aus SQL Server**
 
