@@ -31,11 +31,11 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein.
 
 1. Um die Power BI Desktop-Startdatei zu öffnen, wählen Sie **Datei > Bericht öffnen > Berichte durchsuchen** aus.
 
-1. Navigieren Sie zum Ordner **D:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** und wählen Sie **Verkaufsanalyse** aus.
+1. Navigieren Sie zum Ordner **C:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** und wählen Sie **Verkaufsanalyse** aus.
 
 1. Schließen Sie alle Informationsfenster, die möglicherweise geöffnet werden.
 
-1. Wechseln Sie zu **Datei > Speichern unter**, und speichern Sie die Datei im Ordner **D:\PL300\MySolution**.
+1. Wechseln Sie zu **Datei > Speichern unter**, und speichern Sie die Datei im Ordner **C:\PL300\MySolution**.
 
 ## **Erstellen von Modellbeziehungen**
 
