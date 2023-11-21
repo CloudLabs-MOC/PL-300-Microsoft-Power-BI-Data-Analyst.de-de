@@ -33,7 +33,7 @@ In dieser Übung erstellen Sie zwei berechnete Tabellen. Die erste ist die Tabel
 
 1. Um die Power BI Desktop-Startdatei zu öffnen, wählen Sie **Datei > Bericht öffnen > Berichte durchsuchen** aus.
 
-1. Navigieren Sie im Fenster **Öffnen** zum Ordner **D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter**, und öffnen Sie die Datei **Verkaufsanalyse**.
+1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter**, und öffnen Sie die Datei **Verkaufsanalyse**.
 
 1. Schließen Sie alle Informationsfenster, die möglicherweise geöffnet werden.
 
@@ -43,7 +43,7 @@ In dieser Übung erstellen Sie zwei berechnete Tabellen. Die erste ist die Tabel
 
     *Klicken Sie rechts auf der gelben Warnmeldung auf das **X**, um die Warnmeldung zu verwerfen.*
 
-1. Um eine Kopie der Datei zu erstellen, wechseln Sie zu **Datei > Speichern unter**, und speichern Sie sie im Ordner **D:\PL300\MySolution**.
+1. Um eine Kopie der Datei zu erstellen, wechseln Sie zu **Datei > Speichern unter**, und speichern Sie sie im Ordner **C:\PL300\MySolution**.
 
 1. Wenn Sie aufgefordert werden, Änderungen zu übernehmen, klicken Sie auf **Später übernehmen**.
 
