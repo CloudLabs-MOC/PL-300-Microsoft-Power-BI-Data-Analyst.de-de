@@ -26,7 +26,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein, indem Sie den Start
 
 1. Öffnen Sie die Datei **Verkaufsanalyse** im Ordner **C:\PL300\Labs\06-design-report-in-power-bi-desktop\Starter**.
 
-1. Erstellen Sie eine Kopie der Datei, indem Sie zu **Datei** > **Speichern unter** wechseln, und speichern Sie die Kopie im Ordner **C:\PL300\MySolution**.
+1. Erstellen Sie eine Kopie der Datei, indem Sie zu **Datei** > **Speichern unter** wechseln, und speichern Sie die Kopie im Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\MySolution**.
 
 ## **Entwerfen der ersten Seite**
 
