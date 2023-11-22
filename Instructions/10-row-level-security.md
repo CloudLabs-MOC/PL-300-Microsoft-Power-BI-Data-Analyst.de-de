@@ -32,7 +32,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein.
 
 1. Um die Power BI Desktop-Startdatei zu öffnen, wählen Sie **Datei > Bericht öffnen > Berichte durchsuchen** aus.
 
-1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\Labs\10-row-level-security\Starter**, und öffnen Sie die Datei **Verkaufsanalyse**.
+1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Labs\10-row-level-security\Starter**, und öffnen Sie die Datei **Verkaufsanalyse**.
 
 1. Schließen Sie alle Informationsfenster, die möglicherweise geöffnet werden.
 
