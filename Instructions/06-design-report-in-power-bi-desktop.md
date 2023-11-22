@@ -24,7 +24,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein, indem Sie den Start
 
 1. Navigieren Sie in Power BI Desktop zu **Datei** > **Bericht öffnen** > **Berichte durchsuchen**.
 
-1. Öffnen Sie die Datei **Verkaufsanalyse** im Ordner **C:\PL300\Labs\06-design-report-in-power-bi-desktop\Starter**.
+1. Öffnen Sie die Datei **Verkaufsanalyse** im Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Labs\06-design-report-in-power-bi-desktop\Starter**.
 
 1. Erstellen Sie eine Kopie der Datei, indem Sie zu **Datei** > **Speichern unter** wechseln, und speichern Sie die Kopie im Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\MySolution**.
 
@@ -42,7 +42,7 @@ In dieser Aufgabe wird die erste Berichtsseite entworfen. Nach der Fertigstellun
 
     ![Abbildung 1](Linked_image_Files/07-design-report-in-power-bi-desktop_image15.png)
 
-1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\Resources**.
+1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Resources**.
 
 1. Wählen Sie die Datei **AdventureWorksLogo.jpg** aus, und klicken Sie anschließend auf **Öffnen**.
 
