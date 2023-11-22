@@ -46,7 +46,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein, indem Sie ein Datas
 
 1. Wählen Sie **Hochladen > Durchsuchen** aus.
 
-1. Navigieren Sie zum Ordner **C:\PL300\Labs\08-perform-data-analysis-in-power-bi-desktop\Starter**.
+1. Navigieren Sie zum Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Labs\08-perform-data-analysis-in-power-bi-desktop\Starter**.
 
 1. Wählen Sie die Datei **SalesAnalysis.pbix** und dann **Öffnen** aus.
 
