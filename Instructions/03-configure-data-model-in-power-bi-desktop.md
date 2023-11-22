@@ -31,7 +31,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein.
 
 1. Um die Power BI Desktop-Startdatei zu öffnen, wählen Sie **Datei > Bericht öffnen > Berichte durchsuchen** aus.
 
-1. Navigieren Sie zum Ordner **C:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** und wählen Sie **Verkaufsanalyse** aus.
+1. Navigieren Sie zum Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Labs\03-configure-data-model-in-power-bi-desktop\Starter** und wählen Sie **Verkaufsanalyse** aus.
 
 1. Schließen Sie alle Informationsfenster, die möglicherweise geöffnet werden.
 
