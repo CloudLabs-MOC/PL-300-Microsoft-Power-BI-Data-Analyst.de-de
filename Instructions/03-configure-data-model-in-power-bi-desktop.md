@@ -35,7 +35,7 @@ In dieser Aufgabe richten Sie die Umgebung für das Lab ein.
 
 1. Schließen Sie alle Informationsfenster, die möglicherweise geöffnet werden.
 
-1. Wechseln Sie zu **Datei > Speichern unter**, und speichern Sie die Datei im Ordner **C:\PL300\MySolution**.
+1. Wechseln Sie zu **Datei > Speichern unter**, und speichern Sie die Datei im Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\MySolution**.
 
 ## **Erstellen von Modellbeziehungen**
 
