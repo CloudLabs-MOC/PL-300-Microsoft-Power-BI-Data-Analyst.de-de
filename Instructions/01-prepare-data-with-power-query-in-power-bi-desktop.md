@@ -34,7 +34,7 @@ In dieser Aufgabe öffnen Sie zunächst eine Power BI-Starterdatei (PBIX). Die S
 
 1. Um die Power BI Desktop-Startdatei zu öffnen, wählen Sie **Datei > Bericht öffnen > Berichte durchsuchen** aus.
 
-1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\Labs\01-prepare-data-with-power-query-in-power-bi-desktop\Starter**.
+1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Labs\01-prepare-data-with-power-query-in-power-bi-desktop\Starter**.
 
 1. Wählen Sie die Datei **Sales Analysis** aus.
 
