@@ -160,7 +160,7 @@ In dieser Aufgabe erstellen Sie eine neue Abfrage basierend auf CSV-Dateien.
 
 1. Wählen Sie zum Hinzufügen einer neuen Abfrage im Fenster **Power Query-Editor** auf der Registerkarte **Start** des Menübands in der Gruppe **Neue Abfrage** den Pfeil nach unten bei **Neue Quelle** und dann **Text/CSV** aus.
 
-1. Navigieren Sie im Fenster **Öffnen** zum Ordner **D:\PL300\Resources**, und wählen Sie die Datei **ResellerSalesTargets.csv** aus. Klicken Sie auf **Öffnen**.
+1. Navigieren Sie im Fenster **Öffnen** zum Ordner **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Resources**, und wählen Sie die Datei **ResellerSalesTargets.csv** aus. Klicken Sie auf **Öffnen**.
 
 1. Sehen Sie sich die Vorschaudaten im Fenster **ResellerSalesTargets.csv** an. Klicken Sie auf **OK**.
 
@@ -174,7 +174,7 @@ In dieser Aufgabe erstellen Sie eine neue Abfrage basierend auf CSV-Dateien.
 
      ![Bild 74](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image38.png)
 
-1. Wiederholen Sie die Schritte zum Erstellen einer Abfrage auf Grundlage der Datei **D:\PL300\Resources\ColorFormats.csv**.
+1. Wiederholen Sie die Schritte zum Erstellen einer Abfrage auf Grundlage der Datei **C:\PL300\PL-300-Microsoft-Power-BI-Data-Analyst.de-de-main\Allfiles\Resources\ColorFormats.csv**.
 
     *Die CSV-Datei **ColorFormats** enthält eine Zeile pro Produktfarbe. Jede Zeile zeichnet die HEX-Codes auf, um Hintergrund- und Schriftfarben zu formatieren.*
 
